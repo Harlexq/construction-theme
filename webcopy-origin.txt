@@ -1,0 +1,1268 @@
+Uri: https://bestwebcreator.com/shopwise/demo/404.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\404.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/about.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\about.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/all.min.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/animate.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/flaticon.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/ionicons.min.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/jquery-ui.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/linearicons.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\linearicons.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/magnific-popup.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/responsive.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/simple-line-icons.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/slick-theme.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/slick.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/style.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\style.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/css/themify-icons.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-brands-400.eot
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-brands-400.eot?
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-brands-400.svg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-brands-400.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-brands-400.woff
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-brands-400.woff2
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-regular-400.eot
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-regular-400.eot?
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-regular-400.svg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-regular-400.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-regular-400.woff
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-regular-400.woff2
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-solid-900.eot
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-solid-900.eot?
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-solid-900.svg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-solid-900.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-solid-900.woff
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/fa-solid-900.woff2
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Flaticon.eot
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Flaticon.eot?
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Flaticon.svg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Flaticon.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Flaticon.woff
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Flaticon.woff2
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Flaticon.woff2
+Content Type: application/font-woff2
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\ionicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\ionicons.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Linearicons.eot
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Linearicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Linearicons.eot?4t1dgh
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Linearicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Linearicons.svg?4t1dgh
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Linearicons.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Linearicons.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Linearicons-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Linearicons.ttf?4t1dgh
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Linearicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Linearicons.woff
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Linearicons-1.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Linearicons.woff?4t1dgh
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Linearicons.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Simple-Line-Icons.eot
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Simple-Line-Icons.eot?
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Simple-Line-Icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Simple-Line-Icons.svg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Simple-Line-Icons.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Simple-Line-Icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Simple-Line-Icons.woff
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Simple-Line-Icons.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/Simple-Line-Icons.woff2
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\Simple-Line-Icons.woff2
+Content Type: application/font-woff2
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/themify.eot?
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/themify.eot?-fvbane
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/themify.svg?-fvbane
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/themify.ttf?-fvbane
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/fonts/themify.woff?-fvbane
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/about_img.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\about_img.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/amarican_express.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\amarican_express.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_img4-1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_img4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_img5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_img6-1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_img6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_img6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_img6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_single_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_single_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_single_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_single_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img4-1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img6-1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img7.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img7.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/blog_small_img8.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\blog_small_img8.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cart_thamb1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cart_thamb1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cart_thamb2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cart_thamb2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cat_img1.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cat_img1.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cat_img2.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cat_img2.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cat_img3.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cat_img3.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cat_img4.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cat_img4.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cat_img5.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cat_img5.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cat_img6.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cat_img6.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cat_img7.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cat_img7.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/close.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\close.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cl_logo1.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cl_logo1.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cl_logo2.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cl_logo2.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cl_logo3.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cl_logo3.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cl_logo4.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cl_logo4.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cl_logo5.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cl_logo5.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cl_logo6.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cl_logo6.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/cl_logo7.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\cl_logo7.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/discover.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\discover.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_blog_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_blog_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_blog_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_blog_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_blog_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_blog_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img10.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img10.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img11.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img11.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img12.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img12.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img7.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img7.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img8.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img8.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_hover_img9.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_hover_img9.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img10.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img10.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img11.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img11.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img12.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img12.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img7.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img7.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img8.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img8.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/el_img9.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\el_img9.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/f1.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\f1.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/f2.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\f2.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/favicon.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_banner1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_banner2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_blog_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_blog_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_blog_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_blog_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_blog_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_blog_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_img6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img7.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_img7.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_img8.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_img8.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_insta1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_insta1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_insta2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_insta2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_insta3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_insta3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_insta4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_insta4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_insta5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_insta5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/furniture_insta6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\furniture_insta6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/insta_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\insta_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/insta_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\insta_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/insta_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\insta_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/insta_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\insta_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/insta_img5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\insta_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/insta_img6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\insta_img6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/insta_img7.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\insta_img7.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/insta_img8.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\insta_img8.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/letest_post1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\letest_post1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/letest_post2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\letest_post2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/letest_post3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\letest_post3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/loading.gif
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/logo_dark.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\logo_dark.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/logo_light.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\logo_light.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/master_card.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\master_card.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner11.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner11.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner22.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner22.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner33.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner33.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner7.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner7.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner8.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner8.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/menu_banner9.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\menu_banner9.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/paypal.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\paypal.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img10.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img10.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img11.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img11.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img12.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img12.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img13.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img13.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img14.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img14.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img15.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img15.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img7.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img7.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img8.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img8.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_img9.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_img9.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_small_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_small_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_small_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_small_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_small_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_small_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/product_small_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\product_small_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img10.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img10.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img11.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img11.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img5.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img5.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img6.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img6.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img6.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img6.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img7.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img7.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img7.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img7.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img8.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img8.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_banner_img9.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_banner_img9.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_small1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_small1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_small2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_small2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/shop_small3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\shop_small3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/sidebar_banner_img.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\sidebar_banner_img.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/team_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\team_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/team_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\team_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/team_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\team_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/team_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\team_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/tranding_img.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\tranding_img.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/user1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\user1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/user2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\user2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/user3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\user3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/user4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\user4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/user_img1.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\user_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/user_img2.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\user_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/user_img3.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\user_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/user_img4.jpg
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\user_img4.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/images/visa.png
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\images\visa.png
+Content Type: image/png
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/imagesloaded.pkgd.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\imagesloaded.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/isotope-loadmore.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\isotope-loadmore.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/isotope.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\isotope.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/jquery-3.6.0.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\jquery-3.6.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/jquery-ui.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\jquery-ui.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/jquery.countdown.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\jquery.countdown.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/jquery.dd.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\jquery.dd.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/jquery.elevatezoom.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\jquery.elevatezoom.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/jquery.fitvids.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\jquery.fitvids.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/magnific-popup.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/parallax.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\parallax.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/popper.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/scripts.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/slick.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/js/waypoints.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\js\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/owlcarousel/css/owl.carousel.min.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\owlcarousel\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/owlcarousel/css/owl.theme.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\owlcarousel\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/owlcarousel/css/owl.theme.default.min.css
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\owlcarousel\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://bestwebcreator.com/shopwise/demo/assets/owlcarousel/js/owl.carousel.min.js
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\assets\owlcarousel\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-four-columns.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-four-columns.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-left-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-list-left-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-list-left-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-list-right-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-list-right-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-masonry-four-columns.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-masonry-four-columns.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-masonry-left-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-masonry-left-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-masonry-right-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-masonry-right-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-masonry-three-columns.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-masonry-three-columns.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-right-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-single-audio.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-single-audio.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-single-left-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-single-left-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-single-slider.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-single-slider.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-single-video.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-single-video.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-single.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-single.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-standard-left-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-standard-left-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-standard-right-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-standard-right-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/blog-three-columns.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\blog-three-columns.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/checkout.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\checkout.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/compare.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\compare.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/contact.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\contact.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/faq.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\faq.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/index-2.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\index-2.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/index-3.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\index-3.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/index-4.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\index-4.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/index-5.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\index-5.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/index-6.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\index-6.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/index.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\index.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/login.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\login.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/my-account.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\my-account.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/order-completed.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\order-completed.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-cart.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-cart.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-compare.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-compare.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-left-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-left-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-list-left-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-list-left-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-list-right-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-list-right-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-list.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-list.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-load-more.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-load-more.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-product-detail-left-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-product-detail-left-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-product-detail-right-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-product-detail-right-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-product-detail-thumbnails-left.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-product-detail-thumbnails-left.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-product-detail.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-product-detail.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-quick-view.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-quick-view.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/shop-right-sidebar.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\shop-right-sidebar.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/signup.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\signup.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/term-condition.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\term-condition.html
+Content Type: text/html
+
+Uri: https://bestwebcreator.com/shopwise/demo/wishlist.html
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\shopwise\demo\wishlist.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyD7TypZFTl4Z3gVtikNOdGSfNTpnmq-ahQ&callback=initMap
+File Name: C:\Users\Huaweı\Desktop\tanin-modev\bestwebcreator.com\maps\api\js
+Content Type: text/javascript
+
